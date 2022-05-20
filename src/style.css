@@ -71,16 +71,16 @@ body
 .point .text
 {
     position: absolute;
-    top: 30px;
-    left: -120px;
-    width: 100px;
-    padding: 20px;
+    top: 40px;
+    left: -100px;
+    width: 200px;
+    padding: 15px;
     border-radius: 4px;
     background: #00000077;
     border: 1px solid #00000077;
     color: #ffffff;
     text-align: center;
-    line-height: 1.3em;
+    line-height: 1.5em;
     font-family: 'Roboto', sans-serif;
     font-weight: 100;
     font-size: 14px;
